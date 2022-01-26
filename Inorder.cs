@@ -11,6 +11,8 @@
  *     }
  * }
  */
+
+//Perform an inorder traversal given the root node of a binary tree
 public class Solution {
     List<int> l1 = new List<int>();
     public IList<int> InorderTraversal(TreeNode root)
