@@ -11,6 +11,8 @@
  *     }
  * }
  */
+
+// Complete a Preorder traversal given the root node of a binary search tree
 public class Solution {
     List<int> l1 = new List<int>();
     public IList<int> PreorderTraversal(TreeNode root) 
